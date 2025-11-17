@@ -1,5 +1,5 @@
 # NBA-Leaderboard
-NBA Leaderboard project to track statistics throughout the season using a chosen API 
+NBA Leaderboard project to track statistics throughout the season using RapidAPI 
 
 🏀 NBA Standings CLI
 A simple, fast Python script that pulls live NBA standings using the NBA API (via RapidAPI) and prints a clean, sorted leaderboard directly in the terminal.
