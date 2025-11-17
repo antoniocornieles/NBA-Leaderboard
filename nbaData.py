@@ -5,7 +5,7 @@ url = "https://api-nba-v1.p.rapidapi.com/standings"
 
 printer = PrettyPrinter()
 
-querystring = {"league":"standard","season":"2024"}
+querystring = {"league":"standard","season":"2025"}
 
 headers = {
 	"X-RapidAPI-Key": "9a7e630c53msh1a6700f37ce9085p1fc4abjsn42744c4ee10f",
